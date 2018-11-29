@@ -1,0 +1,17 @@
+body {
+    margin: 0 0 0 0; 
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+div > div > div {
+    text-align: center;
+    margin: 1% 1% 1% 1%;
+}
+
+#contact-button {
+    margin-top: 1%;
+    text-align: center;
+}
